@@ -1,7 +1,7 @@
-# IDSP-Outbreak-Report-week-8-dashboard
-Week 8 Outbreak Dashboard built in Power BI, providing a clear view of disease trends, case distribution, and outbreak patterns. It enables quick analysis through interactive visuals, helping track public health data, identify hotspots, and support timely decision-making for effective outbreak management.
+# IDSP-Outbreak-Report-week-9-dashboard
+Week 9 Outbreak Dashboard built in Power BI, providing a clear view of disease trends, case distribution, and outbreak patterns. It enables quick analysis through interactive visuals, helping track public health data, identify hotspots, and support timely decision-making for effective outbreak management.
 
- 📊 Week 8 Outbreak Dashboard (Power BI)
+ 📊 Week 9 Outbreak Dashboard (Power BI)
 📌 Overview
 
 This project is a Power BI dashboard designed to monitor and analyze disease outbreaks for Week 8. It provides a clear, interactive view of outbreak data to support quick insights and informed public health decision-making.
@@ -52,4 +52,4 @@ Patterns useful for early response
 (Add dashboard screenshot here if needed)
 
 📎 File
-Idsp Outbreak report dashboard for week 8.pbix
+Idsp Outbreak report dashboard for week 9.pbix
